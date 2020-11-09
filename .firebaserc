@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-notes-angular": {
+      "hosting": {
+        "my-notes": [
+          "my-notes-angular"
+        ]
+      }
+    }
+  }
+}

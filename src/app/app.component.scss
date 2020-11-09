@@ -287,8 +287,9 @@ svg#clouds {
   }
 }
 
-.note-item {
-  border: 1px solid gray;
-  padding: 5px;
-  background-color: rgb(224, 224, 61);
+.notes-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  gap: 8px;
 }
